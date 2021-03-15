@@ -1,4 +1,4 @@
-package homepage;
+package departments;
 
 public class HomePage {
 }
